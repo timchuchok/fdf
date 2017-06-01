@@ -28,7 +28,7 @@ Each number corresponds to a point in space:
 
 Result looks like:
 <pre>
-$>./fdf 42.fdf
+$>./fdf test_maps/42.fdf
 $>
 </pre>
 <pre>

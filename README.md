@@ -31,3 +31,6 @@ Result looks like:
 $>./fdf 42.fdf
 $>
 </pre>
+<pre>
+<img src="https://github.com/timchuchok/fdf/blob/master/screen.png">
+</pre>
